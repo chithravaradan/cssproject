@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author INA
+ *
+ */
+module sampleproject {
+}
